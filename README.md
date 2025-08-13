@@ -17,7 +17,8 @@ The design files here include the physical design files for the Dynamo and the L
 If you would like to make this project:
 - print off the files in:
   -  \Mechanical\Components\STLs\Final STL
-- acquire parts in the ![Bill of Materials](./Documentation/P001%20-%20D006%20-%20Bill%20of%20Materials.gsheet)
+- acquire parts in the ![Bill of Materials](./Documentation/Bill%20of%20Materials%20-%20Parts_REV1%20.csv)
+- aquire tools in the ![Tool BoM](./Documentation/Bill%20of%20Materials%20-%20Tools%20Needed_REV1.csv)
 - follow instructions in the ![ZINE](./Documentation/Workshop%20How%20To%20-%20bicycle%20dynamo%20zine.pdf)
 
 This project started off with a desire to be a workshop I could host to show an interesting way to generate electricity and power a bike light without needing a battery. 

@@ -1,0 +1,19 @@
+Subsystem,Description,Qty,Footprint Name,Mfg,Mfg Part Number,Reference Designator,Assembly,Notes
+Electrical - PCB,White Led,1,LED_1206_3216Metric,LCSC,C71796,D4,P001-B002 - LED Light,
+Electrical - PCB,Red LED,1,LED_1206_3216Metric,LCSC,C3646938,D3,P001-B002 - LED Light,
+Electrical - PCB,Conn_01x02,1,PinHeader_1x02_P2.54mm_Vertical,,,J2,P001-B002 - LED Light,
+Electrical - PCB,Conn_01x02,1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,Amazon,,J1,P001-B002 - LED Light,
+Electrical - PCB,D_Schottky,2,D_SOD-123,LCSC,C8570,"D1, D2",P001-B002 - LED Light,
+Electrical - PCB,100u,2,CP_Elec_6.3x7.7,LCSC,C3338,"C1, C2",P001-B002 - LED Light,
+Mechanical - Dynamo,"Nylon Slotted Flat Head Screws, M5 x 0.80 mm Thread, 16mm Long",2,,McMaster,92929A264,,P001-B001 - Dynamo,Nylon screw is important because steel will cause magnets not to rotate - CHECK LENGTH
+Mechanical - Dynamo,Nylon Hex Nut  - M5 x 0.8 mm Thread,2,,McMaster,93800A550,,P001-B001 - Dynamo,
+Mechanical - Dynamo,8mm x 3mm Neodynium magnets,12,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,Enammeled Copper Wire,2.5oz - 3oz,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,Tape (electrical or kapton),"4""",,,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,JST-XH 2.54mm Pitch 2 Pin,1,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,"Small zip ties (4"" legth - 0.1"" width)",2,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,"1/8"" shrink tubing","6""",,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,10mm diameter lens,1,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,"Passivated 18-8 Stainless Steel Pan Head Phillips Screws - M2 x 0.4mm Thread, 10mm Long",2,,McMaster,92000A017,,P001-B001 - Dynamo,CHECK LENGTH
+Mechanical - Dynamo,JST XH Extension cable,1,,Amazon,,,P001-B001 - Dynamo,
+Mechanical - Dynamo,"Larger zip ties (12"" length - 0.19"" width)",4,,Amazon,,,P001-B001 - Dynamo,
