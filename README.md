@@ -14,6 +14,12 @@ This is a small electrical generator that creates enough current to power a smal
 
 The design files here include the physical design files for the Dynamo and the LED light, as well as a custom PCB for the LED light which is a simple voltage rectifier doubler and choice of red or white led. 
 
+If you would like to make this project:
+- print off the files in:
+  -  \Mechanical\Components\STLs\Final STL
+- acquire parts in the ![Bill of Materials](./Documentation/P001%20-%20D006%20-%20Bill%20of%20Materials.gsheet)
+- follow instructions in the ![ZINE](./Documentation/Workshop%20How%20To%20-%20bicycle%20dynamo%20zine.pdf)
+
 This project started off with a desire to be a workshop I could host to show an interesting way to generate electricity and power a bike light without needing a battery. 
 
 Here are the workshop slides:
