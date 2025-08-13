@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2025-06-18T18:58:41-07:00*%
+%TF.ProjectId,Dyno_LED_PCB,44796e6f-5f4c-4454-945f-5043422e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2025-06-18 18:58:41*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X85000000Y-49500000D02*
+G75*
+G02*
+X55000000Y-49500000I-15000000J0D01*
+G01*
+X55000000Y-49500000D02*
+G75*
+G02*
+X85000000Y-49500000I15000000J0D01*
+G01*
+M02*

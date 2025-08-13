@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100u,CP_Elec_6.3x7.7,61.0,-46.5,45.0,top
+C2,100u,CP_Elec_6.3x7.7,79.090811,-46.590809,-45.0,top
+D1,D_Schottky,D_SOD-123,69.0,-45.15,90.0,top
+D2,D_Schottky,D_SOD-123,72.0,-45.15,-90.0,top
+D3,Red LED,LED_1206_3216Metric,68.0,-53.0,90.0,top
+D4,White Led,LED_1206_3216Metric,73.0,-53.0,90.0,top
+J1,Conn_01x02,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,70.25,-38.5,0.0,bottom
+J2,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,69.995,-61.0,90.0,top

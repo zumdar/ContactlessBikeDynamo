@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+White Led,D4,LED_1206_3216Metric,C71796
+Red LED,D3,LED_1206_3216Metric,C3646938
+Conn_01x02,J2,PinHeader_1x02_P2.54mm_Vertical,
+Conn_01x02,J1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,
+D_Schottky,D2,D_SOD-123,C8570
+D_Schottky,D1,D_SOD-123,C8570
+100u,C2,CP_Elec_6.3x7.7,C3338
+100u,C1,CP_Elec_6.3x7.7,C3338
