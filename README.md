@@ -60,3 +60,8 @@ The LED PCB design can be found in:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 Thank you to:
 Lucas Ray, Clara Caspard, and YJ Rodrigues for helping develop this! 
+
+# License
+This is an open source project!
+
+![](./Documentation/oshw_facts.svg)
