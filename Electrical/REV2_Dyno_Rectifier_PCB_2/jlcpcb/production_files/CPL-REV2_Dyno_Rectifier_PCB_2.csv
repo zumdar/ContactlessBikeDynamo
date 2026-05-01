@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,C_0805_2012Metric,57.9,-50.7,90.0,top
+C2,10uF,C_0603_1608Metric,62.5,-37.3,0.0,top
+C3,100nF,C_0603_1608Metric,59.7,-51.1,90.0,top
+C4,10uF,C_0603_1608Metric,59.8,-54.4,90.0,top
+C5,47uF,C_0805_2012Metric,57.9,-54.2,90.0,top
+C7,10uF,C_0805_2012Metric,74.6,-45.8,0.0,top
+C8,10uF,C_0805_2012Metric,57.9,-47.1,90.0,top
+C9,100u,CP_Radial_D5.0mm_P2.00mm,61.1,-43.5,0.0,top
+D1,D_Schottky,D_SOD-923,61.5,-40.3,180.0,top
+D2,D_Schottky,D_SOD-923,59.6,-40.3,180.0,top
+D3,D_Schottky,D_SOD-923,57.72,-40.3,180.0,top
+D4,D_Schottky,D_SOD-923,63.5,-40.48,90.0,top
+D5,D_Schottky,D_SOD-923,68.62,-45.1,180.0,top
+J1,Dynamo Input,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,67.33,-40.6825,180.0,top
+J2,Barrel_Jack_MountingPin,BarrelJack_Horizontal,65.475,-49.2075,180.0,top
+L1,1.5uH,L_0603_1608Metric,59.8,-47.9,90.0,top
+L2,2.2uH,L_0603_1608Metric,71.4,-42.3875,90.0,top
+R1,10k,R_0402_1005Metric,70.7,-45.0,0.0,top
+R2,360k,R_0402_1005Metric,71.3,-39.89,90.0,top
+R3,150k,R_0402_1005Metric,57.4,-42.29,-90.0,top
+R4,100k,R_0402_1005Metric,71.3,-37.89,90.0,top
+R5,2.7,R_0402_1005Metric,57.4,-44.29,90.0,top
+U1,TPS63070RNMR,TPS63070RNMR-2,58.9499,-38.17265,0.0,top
+U2,PAM2803AAF095,PAM2803_SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,74.25,-38.3,0.0,top

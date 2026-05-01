@@ -1,7 +1,0 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,100u,CP_Elec_6.3x7.7,60.4,-41.2,90.0,top
-C2,100u,CP_Elec_6.3x7.7,74.2,-41.0,90.0,top
-D1,D_Schottky,D_SOD-123,58.2,-47.45,90.0,top
-D2,D_Schottky,D_SOD-123,58.0,-52.8,90.0,top
-J2,Screw_Terminal_01x02,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,67.33,-41.0,180.0,top
-J3,Barrel_Jack_MountingPin,BarrelJack_Horizontal,65.475,-49.2075,180.0,top

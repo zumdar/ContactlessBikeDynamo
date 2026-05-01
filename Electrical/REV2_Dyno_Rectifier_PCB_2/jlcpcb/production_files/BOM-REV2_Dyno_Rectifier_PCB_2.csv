@@ -1,0 +1,25 @@
+Comment,Designator,Footprint,LCSC,Quantity
+1.5uH,L1,L_0603_1608Metric,C5339200,1
+100k,R4,R_0402_1005Metric,C25741,1
+100nF,C3,C_0603_1608Metric,C14663,1
+100u,C9,CP_Radial_D5.0mm_P2.00mm,C108360,1
+10k,R1,R_0402_1005Metric,C25744,1
+10uF,"C1,C7,C8",C_0805_2012Metric,C440198,3
+10uF,"C2,C4",C_0603_1608Metric,C96446,2
+150k,R3,R_0402_1005Metric,C2909320,1
+2.2uH,L2,L_0603_1608Metric,C394950,1
+2.7,R5,R_0402_1005Metric,C2998159,1
+360k,R2,R_0402_1005Metric,C2909351,1
+47uF,C5,C_0805_2012Metric,C16780,1
+Barrel_Jack_MountingPin,J2,BarrelJack_Horizontal,C16214,1
+D_Schottky,"D1,D2,D3,D4,D5",D_SOD-923,C2886012,5
+Dynamo Input,J1,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,C557685,1
+PAM2803AAF095,U2,PAM2803_SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,C55801,1
+TPS63070RNMR,U1,TPS63070RNMR-2,C109322,1
+TestPoint,TP6,TestPoint_Pad_1.0x1.0mm,,1
+TestPoint,TP5,TestPoint_Pad_1.0x1.0mm,,1
+TestPoint,TP4,TestPoint_Pad_1.0x1.0mm,,1
+TestPoint,TP3,TestPoint_Pad_1.0x1.0mm,,1
+TestPoint,TP2,TestPoint_Pad_1.0x1.0mm,,1
+TestPoint,TP1,TestPoint_Pad_1.0x1.0mm,,1
+1F - 2.7V,C6,supercapacitor - 4mm diameter,,1
