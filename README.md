@@ -1,6 +1,6 @@
 # Contactless Bicycle Dynamo using Eddy Currents
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-This is a small electrical generator that creates enough current to power a small bicycle light while your wheel is spinning. 
+This is a [certified Open Source](https://certification.oshwa.org/us002771.html) small electrical generator that creates enough current to power a small bicycle light while your wheel is spinning. 
 
 
 ![alt text](./Documentation/dynamo_only.jpg)
@@ -62,6 +62,6 @@ Thank you to:
 Lucas Ray, Clara Caspard, and YJ Rodrigues for helping develop this! 
 
 # License
-This is an open source project!
+This is an certified [open source project](https://certification.oshwa.org/us002771.html)!
 
 ![](./Documentation/oshw_facts.svg)
