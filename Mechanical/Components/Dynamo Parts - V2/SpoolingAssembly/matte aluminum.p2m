@@ -1,0 +1,22 @@
+"ambience" 1 1 1
+"amplitude" 5.26316
+"blend" 0
+"blurryReflections" on
+"col1" 0.90 0.92 0.93
+"decal_val" 0 0 0
+"detail" 8
+"diffuse_factor" 1
+"illum" "model_7.p2a"
+"metallic_color" 0 0 0
+"metallic_ior" 0 0 0
+"mtl_ior" 1
+"num_cols" 1
+"pattern_scale" 0
+"reflectivity" 
+"roughness" 0.900000
+"scale" 0.5
+"specular_color" 1 1 1
+"specular_factor" 0.7
+"swP2M" on
+"sw_shader" mattealuminum
+"transparency" 0

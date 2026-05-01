@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100u,"C1,C2",CP_Elec_6.3x7.7,C3338,2
+Barrel_Jack_MountingPin,J3,BarrelJack_Horizontal,C16214,1
+D_Schottky,"D1,D2",D_SOD-123,C8570,2
+Screw_Terminal_01x02,J2,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,C557685,1
