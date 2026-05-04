@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Barrel_Jack_MountingPin,J2,BarrelJack_Horizontal,C16214,1
+White 150mA,D2,LED_PLCC_2835,C210320,1
+White 60mA,D1,LED_PLCC_2835,C210310,1
+Red LED,D3,LED_PLCC_2835,,1

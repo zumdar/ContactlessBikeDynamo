@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,White 60mA,LED_PLCC_2835,150.25,-100.0,0.0,top
+D2,White 150mA,LED_PLCC_2835,150.25,-106.25,0.0,top
+D3,Red LED,LED_PLCC_2835,150.27,-94.0,0.0,top
+J2,Barrel_Jack_MountingPin,BarrelJack_Horizontal,142.125,-97.649999,180.0,bottom

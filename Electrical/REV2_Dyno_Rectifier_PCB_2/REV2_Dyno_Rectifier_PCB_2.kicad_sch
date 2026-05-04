@@ -2417,7 +2417,7 @@
 		)
 		(uuid "aa6b4018-3a19-48c2-8655-eb93c4b04367")
 	)
-	(text "Limiting ourselves to 35mA output \nwith Rs = 2.7 ohms"
+	(text "Limiting ourselves to 52mA output \nwith Rs = 1.8 ohms"
 		(exclude_from_sim no)
 		(at 209.804 38.608 0)
 		(effects
@@ -7781,7 +7781,7 @@
 	)
 	(global_label "Out_Tip"
 		(shape input)
-		(at 254 133.35 180)
+		(at 254 138.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7791,7 +7791,7 @@
 		)
 		(uuid "172af4ed-091e-403e-824e-1ed8d2d65525")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.1206 133.35 0)
+			(at 244.1206 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8023,7 +8023,7 @@
 	)
 	(global_label "Out_Sleeve"
 		(shape input)
-		(at 254 138.43 180)
+		(at 254 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8033,7 +8033,7 @@
 		)
 		(uuid "c98735fd-ba0b-4851-b02d-10a6f026fe08")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.7339 138.43 0)
+			(at 240.7339 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8538,7 +8538,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C96446"
 			(at 95.25 97.7962 0)
 			(effects
 				(font
@@ -9202,7 +9202,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
+		(property "LCSC" "C14663"
 			(at 140.97 100.3362 0)
 			(effects
 				(font
@@ -9720,7 +9720,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
+		(property "LCSC" "C440198"
 			(at 86.614 100.838 0)
 			(effects
 				(font
@@ -10364,6 +10364,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C16780"
+			(at 165.1 91.4462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c629527-bf4c-4673-9d8e-07cee947a2fc")
 		)
@@ -10434,7 +10443,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C108360"
+		(property "LCSC" "C440198"
 			(at 259.08 77.4762 0)
 			(effects
 				(font
@@ -10735,7 +10744,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C440198"
+		(property "LCSC" "C108360"
 			(at 74.93 97.2438 0)
 			(effects
 				(font
@@ -11058,7 +11067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.7"
+		(property "Value" "1.8"
 			(at 259.08 107.9499 0)
 			(effects
 				(font
@@ -11094,7 +11103,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2998159"
+		(property "LCSC" "C2960794"
 			(at 259.08 105.4099 0)
 			(effects
 				(font
@@ -11619,7 +11628,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C16780"
+		(property "LCSC" "C96446"
 			(at 144.78 87.6362 0)
 			(effects
 				(font
@@ -11697,7 +11706,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C96446"
+		(property "LCSC" "C440198"
 			(at 80.264 100.838 0)
 			(effects
 				(font
