@@ -476,7 +476,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C394950"
+		(property "LCSC" "C5832372"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5307,7 +5307,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "2b387626-731e-43af-8953-8ae4892ffbbc")
+			(uuid "65bb3f70-af9c-4d23-a2fe-57151772ff91")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5318,7 +5318,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "f0341bf4-1545-4d2a-bd28-67d4a1ee2618")
+			(uuid "7431f68b-0d27-4137-9058-147ec40dbb4b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -5353,7 +5353,7 @@
 			(uuid "fc7dfc91-efcc-4ec2-83ac-543af1e8a840")
 		)
 		(embedded_fonts no)
-		(model "G:/Other computers/Projects/projects/KiCad files/Kicad 3D Models/supercap_1f_CXHP2R7105R-TWV.STEP"
+		(model "G:/Other computers/Projects/projects/KiCad files/Kicad 3D Models/supercap_1f_CXHP2R7105R-TWX.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9425,7 +9425,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5339200"
+		(property "LCSC" "C5832371"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
